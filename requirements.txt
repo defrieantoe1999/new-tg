@@ -16,3 +16,5 @@ tgcrypto
 uvloop
 yt_dlp
 pymegatools
+unzip
+unrar
